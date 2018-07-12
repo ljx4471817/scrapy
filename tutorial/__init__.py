@@ -1,0 +1,1 @@
+print('默认 init is start')
